@@ -1,0 +1,28 @@
+{
+  "name": "javascript-functional-programming",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourwpmadesimple/JavaScript-Functional-Programming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourwpmadesimple/JavaScript-Functional-Programming/issues"
+  },
+  "homepage": "https://github.com/yourwpmadesimple/JavaScript-Functional-Programming#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "an-array-of-english-words": "^2.0.0"
+  }
+}
